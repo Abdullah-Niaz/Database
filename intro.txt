@@ -1,0 +1,14 @@
+# Database
+    A database is a collection of data in format that can be accesed easily.
+    => In order to manage our database we use software applications called DBMS
+
+
+    Types of Database:
+        * Relational Database
+        * NoSQL Database
+    
+    1. Relational Database
+        which stores data in the format of table meainting the Relationship 
+
+    2. NoSQL Database
+        which stores data in the format of JSON, it is mostly used in web development
