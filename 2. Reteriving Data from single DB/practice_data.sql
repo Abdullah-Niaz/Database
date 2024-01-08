@@ -24,3 +24,10 @@ select * from customers where NOT ((birth_date > '1990-01-01' OR points > 1000) 
 
 select * from order_items;
 select * from order_items where order_id = 6 AND (unit_price * quantity ) > 30;
+
+
+
+
+
+
+
