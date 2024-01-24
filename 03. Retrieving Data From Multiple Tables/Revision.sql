@@ -17,3 +17,10 @@ select *
 from order_items oi 
 join products p
 	on oi.product_id = p.product_id;
+    
+select 
+	oi.order_id,
+	p.name
+from order_items oi 
+join products p
+	on oi.product_id = p.product_id;
