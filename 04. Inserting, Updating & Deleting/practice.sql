@@ -31,3 +31,9 @@ INSERT INTO products
 		("Caffe",40,12.2),
         ("Supper",50,12.2),
         ("Gala",60,13.2);
+        
+-- Creating a copy of Table
+drop table order_archieved;
+use sql_store;
+create table order_archieved As select * from orders where shipper_id is not Null;
+select * from order_archieved;
