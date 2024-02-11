@@ -1,0 +1,33 @@
+1. IntroDuction to MySQL
+2. MYSQL Installation ( workbench ) 
+3. Create Database
+4. Create Table
+5. Insertion in Single Row
+6. Insertion in Multiple Rows
+7. Contraints 
+8. Select, Where Clause
+9. AND, OR, NOT, In, Between Operators
+10. LIKE Operators & Wildcards
+11. Regural Expression
+12. Order By & Distinct
+13. NUll & IS NOT NULl Contraints
+14. Limist & Offset 
+15. Count, Sum, Min, Max, Avg Functions
+16. Update
+17. COMMIT & ROLLBACK
+18. DELETE 
+19. PRIMARY KEY & FOREIGN KEY
+20. INNER JOIN
+21. LEFT,RIGHT JOIN
+22. CROSS JOIN
+23. JOIN Multiple Tables 
+24. GROUP BY & HAVING CLAUSE
+25. SUBQUERY wiht EXISTS & NOT EXISTS 
+26. UNION & UNION ALL
+27. IF & CASE Statement
+28. Arithmetic Functions
+29. String Functions
+30. Date Function
+31. Time Functions
+32. ALTER  Functions
+33. DROP & TRUNCATE Table
