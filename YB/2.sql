@@ -1,4 +1,5 @@
 use university;
+drop table personal;
 create table personal(
 	ID INT NOT NULL UNIQUE,
     NAME VARCHAR(30) NOT NULL,
@@ -8,8 +9,12 @@ create table personal(
 
 SELECT * FROM personal;
 
-INSERT INTO personal()
+INSERT INTO personal(ID,Name,Gender,City)
 VALUES 
-	(1,"Omer","Male","Lahore"),
-    (2, "Aysha","Femal",default);
-;
+	(6,"Omer","M",default);
+    
+update personal
+set ID = 1
+where ID = 6;
+
+SELECT * FROM personal;
