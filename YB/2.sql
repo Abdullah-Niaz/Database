@@ -14,7 +14,7 @@ VALUES
 	(6,"Omer","M",default);
     
 update personal
-set ID = 1
+set ID = 1 and City = "Multan"
 where ID = 6;
 
 SELECT * FROM personal;
