@@ -20,3 +20,5 @@ where ID = 6;
 SELECT * FROM personal;
 select count(Gender)
 from personal;
+
+
