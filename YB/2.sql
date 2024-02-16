@@ -18,3 +18,5 @@ set ID = 1 and City = "Multan"
 where ID = 6;
 
 SELECT * FROM personal;
+select count(Gender)
+from personal;
